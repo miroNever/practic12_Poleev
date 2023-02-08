@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "practic12_Poleev/1.0.0": {
+        "runtime": {
+          "practic12_Poleev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practic12_Poleev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
